@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Shannan!
+- 👋 Hi, I’m Salmo!
 - 
-- 👀 I’m interested in ... C#, animation, JavaScript, and art!
+- 👀 I’m interested in ... C#, Video Games, art
 - 
-- 🌱 I’m currently learning ... C#, MVC, ASP .NET CORE, JavaScript, DevOps
+- 🌱 I’m currently learning ... C#, modding for Stardew Valley, 3d Blender, 2dlive, Arduino
 
 ✨ Nice to see you ✨
-
